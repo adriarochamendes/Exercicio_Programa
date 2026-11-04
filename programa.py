@@ -1,3 +1,4 @@
+#QUESTÃO 7
 from funcoes import posicao_valida, preenche_frota
 
 frota = {}
